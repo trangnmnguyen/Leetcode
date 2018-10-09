@@ -30,3 +30,9 @@ public:
         return recursive(nums, 0, 0, memo);
     }
 };
+
+
+5->1->3
+10101
+
+1000100010001
